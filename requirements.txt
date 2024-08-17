@@ -1,0 +1,10 @@
+streamlit
+torch
+torchvision
+clip
+matplotlib
+Pillow
+tqdm
+numpy
+faiss-cpu
+sentence-transformers
