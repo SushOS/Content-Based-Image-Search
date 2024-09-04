@@ -4,8 +4,8 @@ Content-Based Image Search (CBIS) is a technique for retrieving images from a da
 
 # Team Members
 
-- Rushi Shah (B21AI032)
 - Sushant Ravva (B21CS084)
+- Rushi Shah (B21AI032)
 - Jaysukh Makvana (B21CS043)
 
 # Usage CLIP
